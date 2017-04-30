@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="key">key</string>
+    <string name="prompt">Choose a genre</string>
+
+    <string-array name="options">
+        <item>Fantasy</item>
+        <item>Adventure</item>
+        <item>Animation</item>
+        <item>Action</item>
+        <item>Crime</item>
+        <item>Drama</item>
+        <item>Horror</item>
+        <item>Comedy</item>
+    </string-array>
+
+
+</resources>
